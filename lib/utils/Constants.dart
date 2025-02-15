@@ -8,7 +8,7 @@ class Constants {
 
   static const String LOGOUT_ROUTE = "/logout";
 
-  static const String USER_INFO_ROUTE = "/user";
+  static const String USER_ROUTE = "/user";
 
   static const String USER_REGISTER_ROUTE = "/register";
 
