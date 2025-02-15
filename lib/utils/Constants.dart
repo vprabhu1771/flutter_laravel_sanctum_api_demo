@@ -10,6 +10,6 @@ class Constants {
 
   static const String USER_ROUTE = "/user";
 
-  static const String USER_REGISTER_ROUTE = "/register";
+  static const String REGISTER_ROUTE = "/register";
 
 }
